@@ -1,4 +1,4 @@
-# ComputerVisionHandbook
+# Computer Vision Resources
 A source of resources for those interested in learning computer vision. 
 
 A good place to start is playing around with _OpenCV_. Here are some of the samples that come with the library:
