@@ -8,7 +8,13 @@ OpenCV also has an overview of most of the features they support at:
 
 OpenCV 2.4: http://docs.opencv.org/2.4/doc/tutorials/tutorials.html
 
-<a href="OpenCV 3.0.0: http://docs.opencv.org/3.0.0/d9/df8/tutorial_root.html" target="_blank">OpenCV 3.0.0: http://docs.opencv.org/3.0.0/d9/df8/tutorial_root.html</a>
+OpenCV 3.0.0: http://docs.opencv.org/3.0.0/d9/df8/tutorial_root.html
+
+If you'd like a more formal background on computer vision, there are several courses that have been uploaded to YouTube.
+
+https://www.youtube.com/watch?v=715uLCHt4jE&list=PLd3hlSJsX_Imk_BPmB_H3AQjFKZS9XgZm
+
+
 
 
 
